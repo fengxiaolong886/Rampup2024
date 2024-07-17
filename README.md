@@ -30,5 +30,7 @@ As years passed, I should be back to coding for more interesting world explore. 
       * Integer Overflow Detection - 整数溢出判断
       * Greedy Algorithms - 贪心算法
       * Array Movement in Four Directions (Up, Down, Left, Right) - 数组内的上下左右移动
+    Progress:
+        W29D3: 10/200
 6. Follow Kaggle best practice. Follow at least 10 cases.
 7. Quantitative analysis warm up. 
