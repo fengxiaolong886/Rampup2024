@@ -31,6 +31,7 @@ As years passed, I should be back to coding for more interesting world explore. 
       * Greedy Algorithms - 贪心算法
       * Array Movement in Four Directions (Up, Down, Left, Right) - 数组内的上下左右移动
     Progress:
-        W29D3: 10/200
+        W29D3: 10/200 <br/>
+        W29D5: 18/200 <br/>
 6. Follow Kaggle best practice. Follow at least 10 cases.
 7. Quantitative analysis warm up. 
