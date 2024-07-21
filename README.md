@@ -38,6 +38,7 @@ As years passed, I should be back to coding for more interesting world explore. 
         W29D3: 10/200 <br/>
         W29D5: 18/200 <br/>
         W29D6: 24/200 <br/>
+        W29D7: DP 26,  List 5 ,Radom 5 total: 36/200<br/>
 8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
 10. Quantitative analysis warm up. <br/>
