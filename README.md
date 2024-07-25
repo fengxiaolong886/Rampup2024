@@ -38,9 +38,11 @@ As years passed, I should be back to coding for more interesting world explore. 
         W29D3: 10/200 <br/>
         W29D5: 18/200 <br/>
         W29D6: 24/200 <br/>
-        W29D7: DP 26,  List 5 ,Radom 5 total: 36/200<br/>
-        W30D1: DP 26,  List 5 ,Radom 17 total: 48/200<br/>
-        W30D2: DP 26,  List 5 ,Radom 37 total: 58/200<br/>
+        W29D7: DP 26,  List 5 ,Random 5 total: 36/200<br/>
+        W30D1: DP 26,  List 5 ,Random 17 total: 48/200<br/>
+        W30D2: DP 26,  List 5 ,Random 37 total: 58/200<br/>
+        W30D3: DP 26,  List 5 ,Random 55 total: 86/200<br/>
+        W30D4: DP 26,  List 5 ,Random 66 total: 97/200<br/>
         
          
 8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
