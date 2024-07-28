@@ -43,6 +43,8 @@ As years passed, I should be back to coding for more interesting world explore. 
         W30D2: DP 26,  List 5 ,Random 37 total: 58/200<br/>
         W30D3: DP 26,  List 5 ,Random 55 total: 86/200<br/>
         W30D4: DP 26,  List 5 ,Random 66 total: 97/200<br/>
+        W30D5: DP 26,  List 5 ,Random 73 total: 104/200<br/>
+        W30D6: DP 26,  List 5 ,Random 78 total: 109/200<br/>
         
          
 8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
