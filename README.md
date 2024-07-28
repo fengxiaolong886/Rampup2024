@@ -25,9 +25,7 @@ As years passed, I should be back to coding for more interesting world explore. 
       *  Depth-First Search (DFS) - 深度优先搜索 <br/>
       * Subset Problem - 子集问题 <br/>
       *  Binary Search - 二分查找 <br/>
-      * Top K Elements - 前K大数 <br/>
-      *  K-way Merge - K路归并 <br/>
-      * Binary Tree Series - 二叉树系列 <br/>
+      
       *  Linked List - 链表 <br/>
       * Base Conversion and Bit Manipulation - 进制转换和位运算 <br/>
       * Integer Overflow Detection - 整数溢出判断 <br/>
@@ -45,8 +43,9 @@ As years passed, I should be back to coding for more interesting world explore. 
         W30D4: DP 26,  List 5 ,Random 66 total: 97/200<br/>
         W30D5: DP 26,  List 5 ,Random 73 total: 104/200<br/>
         W30D6: DP 26,  List 5 ,Random 78 total: 109/200<br/>
+        W30D7: DP 26,  List 5 ,Random 100 total: 131/200<br/>
+        W31D1: DP 26,  List 5 ,Random 100 total: -/200<br/>
         
-         
 8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
 10. Quantitative analysis warm up. <br/>
