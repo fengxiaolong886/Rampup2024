@@ -47,7 +47,7 @@ As years passed, I should be back to coding for more interesting world explore. 
         W31D2: DP 26,  List 5 ,Random 117 total: 148/200<br/>
         W31D3: DP 26,  List 5 ,Random 123 total: 154/200<br/>
         W31D4: DP 26,  List 5 ,Random 128 total: 159/200<br/>
-        W31D5: DP 26,  List 5 ,Random 128 total: 159/200<br/>
+        W31D5: DP 26,  List 5 ,Random 150 total: 181/200<br/>
         
 8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
