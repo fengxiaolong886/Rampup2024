@@ -10,6 +10,7 @@ As years passed, I should be back to coding for more interesting world explore. 
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
 5. Review my previous deep learning code and RL code <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+   W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
 7. Leetcode for basic algorithms. Target 200 pcs in 30 days. <br/>
    Go forward with algorithm type, <br/>
       * Dynamic Programming (DP) - 动态规划 <br/>
@@ -47,8 +48,16 @@ As years passed, I should be back to coding for more interesting world explore. 
         W31D2: DP 26,  List 5 ,Random 117 total: 148/200<br/>
         W31D3: DP 26,  List 5 ,Random 123 total: 154/200<br/>
         W31D4: DP 26,  List 5 ,Random 128 total: 159/200<br/>
-        W31D5: DP 26,  List 5 ,Random 150 total: 181/200<br/>
-        
+        W31D5: DP 26,  List 5 ,Random 157 total: 188/200<br/>
+        W31D6: DP 26,  List 5 ,Random 170 total: 201/200<br/>
+        Summary:<br/>
+        a. Task completed in 20 days.<br/>
+        b. Most of random part is easy mode.<br/>
+        c. Not structure learning during the task implementation.<br/>
+        d. Way forward: daily 2-3 cases for medium level and pay more effort on other tasks.<br/>
+        e. Good job for me for ramp up in servel years diving into other job area. You can do more and improve yourself in more efficiency way!<br/>
+        <br/>
+            
 8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
 10. Quantitative analysis warm up. <br/>
