@@ -2,16 +2,11 @@
 As years passed, I should be back to coding for more interesting world explore. It's not easy for these years, many roles transferred for life. It's forced to learn new skill and ignore what I have. The world go ahead so rapidly and seems not easy to catch it. I hope I can catch the tail this time. 
 
 ## Action plan of Way forward: <br/>
-1. Follow the guide to travel with basic python, data analysis methods.
+1. Follow the guide to travel with basic python, data analysis methods.<br/> 
    W28D6: Done <br/>
 3. Learn more about the data visualization method. <br/>
    W28D6: Done   <br/>
-4. Coding for machine learning basic algorithm. <br/>
-   W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
-5. Review my previous deep learning code and RL code <br/>
-   W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
-   W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
-7. Leetcode for basic algorithms. Target 200 pcs in 30 days. <br/>
+3. Leetcode for basic algorithms. Target 200 pcs in 30 days. <br/>
    Go forward with algorithm type, <br/>
       * Dynamic Programming (DP) - 动态规划 <br/>
       * Sliding Window - 滑动窗口 <br/>
@@ -56,9 +51,19 @@ As years passed, I should be back to coding for more interesting world explore. 
         c. Not structure learning during the task implementation.<br/>
         d. Way forward: daily 2-3 cases for medium level and pay more effort on other tasks.<br/>
         e. Good job for me for ramp up in servel years diving into other job area. You can do more and improve yourself in more efficiency way!<br/>
-        <br/>
-            
-8. Follow Kaggle best practice. Follow at least 10 cases. <br/>
+        <br/>          
+4. Follow Kaggle best practice. Follow at least 10 cases. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
-10. Quantitative analysis warm up. <br/>
+5. Quantitative analysis warm up. <br/>
     W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+6. Coding for machine learning basic algorithm. <br/>
+   W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+7. Review my previous deep learning code and RL code <br/>
+   W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+   W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
+8. Read two ML books and implement ML code.
+
+
+## Daily task:<br/>
+1. Daily leetcode start from W31D7 and target is at least two medium level per day.
+    W31D6: DP 26,  List 5 ,Random 170, Hash , total: 201/200<br/>
