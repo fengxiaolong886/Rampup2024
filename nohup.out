@@ -4587,3 +4587,293 @@ tornado.websocket.WebSocketClosedError
 [I 2024-08-05 13:26:12.024 ServerApp] Starting buffering for bfc349bd-2727-468f-8af6-2cdc256dccab:5b33479b-e323-4c3c-9a07-a968b0ccb93e
 [I 2024-08-05 13:26:12.167 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:7163afcd-3ff5-40e3-8e32-f36f3bf716bc
 [I 2024-08-05 13:26:12.363 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 13:59:39.072 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:7124a9be-4bce-489a-9522-1a437a295053
+[I 2024-08-05 14:00:07.923 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 14:00:07.923 ServerApp] Restoring connection for 847624d5-f3f0-4849-b135-e94a8b87dbb5:7124a9be-4bce-489a-9522-1a437a295053
+[I 2024-08-05 14:52:59.259 ServerApp] 302 GET / (@64.62.156.85) 0.51ms
+[I 2024-08-05 14:53:15.151 ServerApp] 302 GET / (@64.62.156.88) 0.55ms
+[I 2024-08-05 14:53:15.334 JupyterNotebookApp] 302 GET /tree? (@64.62.156.88) 0.73ms
+[W 2024-08-05 14:53:22.875 ServerApp] 404 GET http://api.ipify.org/?format=json (@64.62.156.82) 1.25ms referer=None
+[E 2024-08-05 14:53:30.364 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 14:53:30.364 ServerApp] 405 CONNECT www.shadowserver.org:443 (@64.62.156.93) 0.92ms referer=None
+[I 2024-08-05 15:07:18.798 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 15:07:38.663 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 15:08:08.892 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 15:12:19.842 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 15:13:12.738 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 15:13:39.452 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 15:13:46.116 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:7124a9be-4bce-489a-9522-1a437a295053
+[W 2024-08-05 15:13:46.958 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-08-05 15:13:46.980 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-05 15:13:47.119 ServerApp] Connecting to kernel e0582087-c135-4fbb-988e-6641c1176067.
+[I 2024-08-05 15:13:47.181 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:632cc05a-cb0e-42e4-a8b7-3f03e015b3c0
+[I 2024-08-05 15:13:47.234 ServerApp] Connecting to kernel bfc349bd-2727-468f-8af6-2cdc256dccab.
+[I 2024-08-05 15:13:47.282 ServerApp] Starting buffering for e0582087-c135-4fbb-988e-6641c1176067:97e9c93f-577f-4185-b078-d795c3b38976
+[I 2024-08-05 15:13:47.332 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 15:13:47.357 ServerApp] Starting buffering for bfc349bd-2727-468f-8af6-2cdc256dccab:62feeb26-cc1e-425b-8832-f782442d73ab
+[I 2024-08-05 15:13:47.518 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:47de8eee-330b-4c19-8e9d-88e0edefb147
+[I 2024-08-05 15:13:47.859 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 15:21:51.946 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:1ce7f07a-dccb-43f1-b3ee-3af48b91a6f6
+[I 2024-08-05 15:49:14.472 ServerApp] 302 GET / (@147.185.132.210) 0.45ms
+[I 2024-08-05 15:49:14.976 JupyterNotebookApp] 302 GET /tree? (@147.185.132.210) 0.61ms
+[W 2024-08-05 16:18:36.789 ServerApp] 404 GET /cgi-bin/luci/;stok=/locale (@45.148.10.202) 1.32ms referer=None
+[I 2024-08-05 16:36:00.581 ServerApp] 302 GET / (@223.113.128.220) 0.40ms
+[I 2024-08-05 16:37:03.452 ServerApp] Malformed HTTP message from 223.113.128.220: Malformed HTTP request line
+[I 2024-08-05 16:40:02.981 ServerApp] 302 GET / (@106.75.65.166) 0.48ms
+[I 2024-08-05 16:40:03.015 JupyterNotebookApp] 302 GET /tree?/robots.txt (@106.75.65.166) 0.65ms
+[I 2024-08-05 16:40:03.016 JupyterNotebookApp] 302 GET /tree?/sitemap.xml (@106.75.65.166) 0.44ms
+[I 2024-08-05 16:40:03.677 JupyterNotebookApp] 302 GET /tree? (@106.75.65.166) 0.63ms
+[I 2024-08-05 17:00:11.177 ServerApp] 302 GET / (@92.249.48.208) 0.51ms
+[E 2024-08-05 17:01:20.073 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 17:01:20.074 ServerApp] 405 CONNECT example.com:443 (@154.213.184.18) 0.91ms referer=None
+[I 2024-08-05 19:09:35.352 ServerApp] 302 GET / (@199.45.154.153) 0.42ms
+[I 2024-08-05 19:09:44.692 ServerApp] 302 GET / (@199.45.154.153) 0.57ms
+[I 2024-08-05 19:09:45.341 ServerApp] Malformed HTTP message from 199.45.154.153: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-05 19:09:48.977 JupyterNotebookApp] 302 GET /tree (@199.45.154.153) 0.57ms
+[I 2024-08-05 19:09:49.637 ServerApp] Malformed HTTP message from 199.45.154.153: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-05 19:09:50.286 ServerApp] 302 GET / (@199.45.154.153) 0.43ms
+[I 2024-08-05 19:09:56.397 ServerApp] Malformed HTTP message from 199.45.154.153: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-05 19:09:57.048 ServerApp] 302 GET / (@199.45.154.153) 0.46ms
+[W 2024-08-05 20:00:40.337 ServerApp] 404 GET /cgi-bin/luci/;stok=/locale (@45.148.10.202) 1.65ms referer=None
+[I 2024-08-05 21:03:40.342 ServerApp] 302 GET / (@92.249.48.208) 0.44ms
+[E 2024-08-05 21:27:09.530 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 21:27:09.531 ServerApp] 405 CONNECT example.com:443 (@154.213.184.18) 1.15ms referer=None
+[I 2024-08-05 21:33:02.710 ServerApp] 302 GET / (@185.242.226.45) 0.42ms
+[I 2024-08-05 21:33:02.976 JupyterNotebookApp] 302 GET /tree (@185.242.226.45) 0.54ms
+[E 2024-08-05 21:34:05.877 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 21:34:05.877 ServerApp] 405 CONNECT 1.1.1.1:443 (@83.222.190.210) 0.94ms referer=None
+[E 2024-08-05 21:34:05.879 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 21:34:05.879 ServerApp] 405 CONNECT 1.1.1.1:443 (@83.222.190.210) 0.58ms referer=None
+[E 2024-08-05 21:34:05.893 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 21:34:05.894 ServerApp] 405 CONNECT 1.1.1.1:443 (@83.222.190.210) 0.74ms referer=None
+[E 2024-08-05 21:34:05.895 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-05 21:34:05.896 ServerApp] 405 CONNECT 1.1.1.1:443 (@83.222.190.210) 0.57ms referer=None
+[W 2024-08-05 22:15:31.197 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-08-05 22:15:31.256 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-05 22:15:31.261 ServerApp] Connecting to kernel bfc349bd-2727-468f-8af6-2cdc256dccab.
+[I 2024-08-05 22:15:31.263 ServerApp] Connecting to kernel e0582087-c135-4fbb-988e-6641c1176067.
+[I 2024-08-05 22:15:31.276 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 22:15:31.501 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:73a7aeee-3ddd-49fd-b3c8-2b51f213423e
+[I 2024-08-05 22:15:31.502 ServerApp] Starting buffering for e0582087-c135-4fbb-988e-6641c1176067:ba5c2f80-176b-4f49-b917-e473a7fce4f8
+[I 2024-08-05 22:15:31.503 ServerApp] Starting buffering for bfc349bd-2727-468f-8af6-2cdc256dccab:022f8723-3b62-4741-aa33-78317ea5c4a7
+[I 2024-08-05 22:15:31.503 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:ea42255e-9fc0-4360-a3ce-a134946b2960
+[I 2024-08-05 22:15:32.180 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 22:17:28.008 ServerApp] Creating new notebook in /Rampup2024/1-Basic Alogrithm
+[I 2024-08-05 22:17:28.344 ServerApp] Kernel started: 24c6a7b2-1bd2-4dc0-8653-8ac441a07d1f
+[I 2024-08-05 22:17:30.240 ServerApp] Connecting to kernel 24c6a7b2-1bd2-4dc0-8653-8ac441a07d1f.
+[I 2024-08-05 22:19:26.911 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/4.String.ipynb
+[I 2024-08-05 22:21:03.718 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/4.String.ipynb
+[I 2024-08-05 22:22:02.336 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/4.String.ipynb
+[I 2024-08-05 22:25:03.897 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/4.String.ipynb
+[I 2024-08-05 22:25:04.736 ServerApp] Starting buffering for 24c6a7b2-1bd2-4dc0-8653-8ac441a07d1f:35b86f5a-480b-4fd3-a073-b67586e1d88a
+[I 2024-08-05 22:29:28.148 ServerApp] Creating new notebook in /Rampup2024/1-Basic Alogrithm
+[I 2024-08-05 22:29:28.464 ServerApp] Kernel started: 19eac7ae-dca4-4aec-8a99-1cb2d6468a53
+[I 2024-08-05 22:29:28.901 ServerApp] Connecting to kernel 19eac7ae-dca4-4aec-8a99-1cb2d6468a53.
+[I 2024-08-05 22:31:27.046 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:33:27.210 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:35:27.368 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:36:55.614 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:37:57.224 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:39:57.382 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:41:57.552 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:43:57.712 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:44:29.007 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:46:29.168 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:47:37.948 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:49:38.111 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:51:38.268 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:52:56.699 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:54:50.423 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:56:50.596 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:57:03.828 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 22:59:04.003 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:03:04.179 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:05:04.346 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:06:10.380 ServerApp] Connecting to kernel bfc349bd-2727-468f-8af6-2cdc256dccab.
+[I 2024-08-05 23:06:10.388 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-05 23:06:10.389 ServerApp] Connecting to kernel f4b02ff0-99f3-4fe2-a615-3fc19aa9b142.
+[I 2024-08-05 23:06:10.391 ServerApp] Connecting to kernel 24c6a7b2-1bd2-4dc0-8653-8ac441a07d1f.
+[I 2024-08-05 23:06:10.398 ServerApp] Connecting to kernel 19eac7ae-dca4-4aec-8a99-1cb2d6468a53.
+[I 2024-08-05 23:06:10.400 ServerApp] Connecting to kernel e0582087-c135-4fbb-988e-6641c1176067.
+[I 2024-08-05 23:06:10.528 ServerApp] Starting buffering for bfc349bd-2727-468f-8af6-2cdc256dccab:d455602e-4bc2-49f4-8b5f-609792222097
+[I 2024-08-05 23:06:10.533 ServerApp] Starting buffering for f4b02ff0-99f3-4fe2-a615-3fc19aa9b142:b8ee3afe-b7e5-4ac4-886d-df5a1c52ae52
+[I 2024-08-05 23:06:10.536 ServerApp] Starting buffering for 24c6a7b2-1bd2-4dc0-8653-8ac441a07d1f:7db0eee4-01d0-47e5-a0a3-80e0c4ee2260
+[I 2024-08-05 23:06:10.547 ServerApp] Starting buffering for e0582087-c135-4fbb-988e-6641c1176067:5138d457-3e1a-40ab-9422-767a3913b010
+[I 2024-08-05 23:07:04.514 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:09:04.676 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:13:04.848 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:15:05.015 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:17:05.179 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:19:05.339 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:21:05.517 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:23:05.689 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:25:05.854 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:27:06.018 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:29:06.183 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:29:11.900 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:29:27.747 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:30:19.591 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 23:31:27.913 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[I 2024-08-05 23:32:11.214 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-05 23:32:19.570 ServerApp] Saving file at /Rampup2024/README.md

@@ -54,16 +54,22 @@ As years passed, I should be back to coding for more interesting world explore. 
         <br/>          
 4. Follow Kaggle best practice. Follow at least 10 cases. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+   W32D1:  Postpone<br/>
 5. Quantitative analysis warm up. <br/>
     W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+   W32D1:  Postpone<br/>
 6. Coding for machine learning basic algorithm. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
+   W32D1:  Postpone<br/>
 7. Review my previous deep learning code and RL code <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
 8. Read two ML books and implement ML code.
+   W32D1:  Postpone for other personal improvement plan<br/>
 
 
 ## Daily task:<br/>
 1. Daily leetcode start from W31D7 and target is at least two medium level per day.
-    W31D6: DP 26,  List 5 ,Random 170, Hash , total: 201/200<br/>
+    W31D7: DP 26,  List 5 ,Random 170, Hash 3, total: 204/200<br/>
+    W32D1: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 2, total: 207/200<br/>
+    
