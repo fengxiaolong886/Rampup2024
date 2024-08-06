@@ -5171,3 +5171,222 @@ tornado.websocket.WebSocketClosedError
 [I 2024-08-06 11:48:42.842 ServerApp] Starting buffering for 19eac7ae-dca4-4aec-8a99-1cb2d6468a53:4564d009-87bb-4a4e-a357-a1a03ce3a82a
 [I 2024-08-06 11:48:42.961 ServerApp] Connecting to kernel 19eac7ae-dca4-4aec-8a99-1cb2d6468a53.
 [I 2024-08-06 11:48:43.060 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-06 11:49:31.512 ServerApp] EOF on FD 35; stopping reading
+[I 2024-08-06 11:49:31.612 ServerApp] Terminal 3 closed
+[I 2024-08-06 11:49:47.647 ServerApp] New terminal with automatic name: 1
+[I 2024-08-06 12:05:31.383 ServerApp] Starting buffering for 19eac7ae-dca4-4aec-8a99-1cb2d6468a53:ff1a2a64-abe7-4a1f-8792-5ea3657ad5f5
+[I 2024-08-06 12:05:31.387 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:e127623b-d7e3-4ba4-9360-c90afbdc6eb4
+[I 2024-08-06 12:11:42.756 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-06 12:11:42.756 ServerApp] Restoring connection for 847624d5-f3f0-4849-b135-e94a8b87dbb5:e127623b-d7e3-4ba4-9360-c90afbdc6eb4
+[I 2024-08-06 12:11:42.867 ServerApp] Connecting to kernel 19eac7ae-dca4-4aec-8a99-1cb2d6468a53.
+[I 2024-08-06 12:11:42.867 ServerApp] Restoring connection for 19eac7ae-dca4-4aec-8a99-1cb2d6468a53:ff1a2a64-abe7-4a1f-8792-5ea3657ad5f5
+[I 2024-08-06 12:13:08.080 ServerApp] Starting buffering for 19eac7ae-dca4-4aec-8a99-1cb2d6468a53:ff1a2a64-abe7-4a1f-8792-5ea3657ad5f5
+[I 2024-08-06 12:13:08.233 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:e127623b-d7e3-4ba4-9360-c90afbdc6eb4
+[E 2024-08-06 12:23:23.844 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 12:23:23.845 ServerApp] 405 CONNECT 45.61.137.126:7227 (@154.216.17.84) 1.01ms referer=None
+[I 2024-08-06 14:28:20.664 ServerApp] Connecting to kernel 19eac7ae-dca4-4aec-8a99-1cb2d6468a53.
+[I 2024-08-06 14:28:20.664 ServerApp] Restoring connection for 19eac7ae-dca4-4aec-8a99-1cb2d6468a53:ff1a2a64-abe7-4a1f-8792-5ea3657ad5f5
+[I 2024-08-06 14:28:23.347 ServerApp] Connecting to kernel 847624d5-f3f0-4849-b135-e94a8b87dbb5.
+[I 2024-08-06 14:28:23.347 ServerApp] Restoring connection for 847624d5-f3f0-4849-b135-e94a8b87dbb5:e127623b-d7e3-4ba4-9360-c90afbdc6eb4
+[I 2024-08-06 14:28:48.519 ServerApp] 302 GET / (@92.249.48.208) 0.47ms
+[I 2024-08-06 14:29:44.838 ServerApp] Starting buffering for 847624d5-f3f0-4849-b135-e94a8b87dbb5:e127623b-d7e3-4ba4-9360-c90afbdc6eb4
+[I 2024-08-06 14:30:26.958 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-06 14:30:36.605 ServerApp] Saving file at /Rampup2024/README.md
+[I 2024-08-06 14:34:14.133 ServerApp] Saving file at /Rampup2024/1-Basic Alogrithm/5. Stack and Queue.ipynb
+[W 2024-08-06 15:39:11.869 ServerApp] 404 GET /cgi-bin/luci/;stok=/locale (@45.148.10.202) 1.72ms referer=None
+[E 2024-08-06 15:46:59.640 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 15:46:59.640 ServerApp] 405 CONNECT example.com:443 (@154.213.184.18) 1.14ms referer=None
+[W 2024-08-06 15:59:09.730 ServerApp] 404 HEAD http://110.242.68.4/ (@123.178.210.61) 1.64ms referer=None
+[E 2024-08-06 15:59:24.532 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 15:59:24.533 ServerApp] 405 CONNECT www.voanews.com:443 (@117.15.90.73) 1.10ms referer=None
+[W 2024-08-06 15:59:26.221 ServerApp] 404 GET http://www.rfa.org/english/ (@122.96.28.95) 1.44ms referer=None
+[E 2024-08-06 15:59:26.894 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 15:59:26.894 ServerApp] 405 CONNECT cn.bing.com:443 (@122.96.28.95) 0.98ms referer=None
+[E 2024-08-06 15:59:27.331 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 15:59:27.331 ServerApp] 405 CONNECT www.baidu.com:443 (@122.96.28.95) 0.87ms referer=None
+[W 2024-08-06 15:59:27.507 ServerApp] 404 GET http://www.epochtimes.com/ (@122.96.28.95) 1.55ms referer=None
+[W 2024-08-06 15:59:27.634 ServerApp] 404 GET http://www.soso.com/ (@122.96.28.95) 1.66ms referer=None
+[W 2024-08-06 15:59:29.672 ServerApp] 404 GET http://www.wujieliulan.com/ (@49.113.95.156) 1.31ms referer=None
+[W 2024-08-06 15:59:29.719 ServerApp] 404 GET http://www.minghui.org/ (@49.113.95.156) 1.18ms referer=None
+[W 2024-08-06 15:59:29.745 ServerApp] 404 GET http://dongtaiwang.com/ (@49.113.95.156) 1.28ms referer=None
+[E 2024-08-06 15:59:29.932 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 15:59:29.933 ServerApp] 405 CONNECT www.so.com:443 (@49.113.95.156) 0.94ms referer=None
+[I 2024-08-06 16:22:29.545 ServerApp] 302 GET / (@47.92.230.66) 0.62ms
+[I 2024-08-06 16:22:29.554 JupyterNotebookApp] 302 GET /tree (@47.92.230.66) 0.80ms
+[W 2024-08-06 16:57:02.078 TerminalsExtensionApp] WebSocket ping timeout after 119953 ms.
+[W 2024-08-06 16:57:20.665 ServerApp] WebSocket ping timeout after 119953 ms.
+[I 2024-08-06 16:57:25.666 ServerApp] Starting buffering for 19eac7ae-dca4-4aec-8a99-1cb2d6468a53:ff1a2a64-abe7-4a1f-8792-5ea3657ad5f5
+[W 2024-08-06 18:08:32.717 ServerApp] 404 GET /cgi/conf.bin (@194.50.16.15) 1.24ms referer=http://124.70.24.18:8888/mainFrame.htm
+[I 2024-08-06 18:45:23.232 ServerApp] 302 GET / (@92.249.48.208) 0.44ms
+[I 2024-08-06 19:34:43.701 ServerApp] 302 GET / (@206.168.34.123) 0.40ms
+[I 2024-08-06 19:34:53.163 ServerApp] 302 GET / (@206.168.34.123) 0.41ms
+[I 2024-08-06 19:34:53.650 ServerApp] Malformed HTTP message from 206.168.34.123: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-06 19:34:58.822 JupyterNotebookApp] 302 GET /tree (@206.168.34.123) 0.53ms
+[I 2024-08-06 19:34:59.255 ServerApp] Malformed HTTP message from 206.168.34.123: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-06 19:34:59.771 ServerApp] 302 GET / (@206.168.34.123) 0.42ms
+[I 2024-08-06 19:35:05.467 ServerApp] Malformed HTTP message from 206.168.34.123: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 2024-08-06 19:35:05.995 ServerApp] 302 GET / (@206.168.34.123) 0.40ms
+[W 2024-08-06 19:53:10.481 ServerApp] 404 GET /cgi-bin/luci/;stok=/locale (@45.148.10.202) 1.27ms referer=None
+[E 2024-08-06 20:14:37.128 ServerApp] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1753, in _execute
+        raise HTTPError(405)
+    tornado.web.HTTPError: HTTP 405: Method Not Allowed
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1298, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 739, in write_error
+        html = self.render_template("%s.html" % status_code, **ns)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 665, in render_template
+        ns.update(self.template_namespace)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 675, in template_namespace
+        logged_in=self.logged_in,
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 198, in logged_in
+        user = self.current_user
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1424, in current_user
+        self._current_user = self.get_current_user()
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_server/base/handlers.py", line 177, in get_current_user
+        raise RuntimeError(msg)
+    RuntimeError: Calling `Template404.get_current_user()` directly is deprecated in jupyter-server 2.0. Use `self.current_user` instead (works in all versions).
+[W 2024-08-06 20:14:37.129 ServerApp] 405 CONNECT example.com:443 (@154.213.184.18) 0.99ms referer=None

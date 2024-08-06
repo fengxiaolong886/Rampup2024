@@ -64,7 +64,7 @@ As years passed, I should be back to coding for more interesting world explore. 
 7. Review my previous deep learning code and RL code <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
-8. Read two ML books and implement ML code.
+8. Read two ML books and implement ML code.<br/>
    W32D1:  Postpone for other personal improvement plan<br/>
 
 
@@ -72,4 +72,5 @@ As years passed, I should be back to coding for more interesting world explore. 
 1. Daily leetcode start from W31D7 and target is at least two medium level per day.
     W31D7: DP 26,  List 5 ,Random 170, Hash 3, total: 204/200<br/>
     W32D1: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 2, total: 207/200<br/>
+    W32D2: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 2, total: 207/200<br/>
     
