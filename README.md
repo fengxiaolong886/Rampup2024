@@ -72,5 +72,6 @@ As years passed, I should be back to coding for more interesting world explore. 
 1. Daily leetcode start from W31D7 and target is at least two medium level per day.
     W31D7: DP 26,  List 5 ,Random 170, Hash 3, total: 204/200<br/>
     W32D1: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 2, total: 207/200<br/>
-    W32D2: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 2, total: 207/200<br/>
+    W32D2: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 3, Backtracking 2 ,total: 210/200<br/>
+    W32D2: DP 26,  List 5 ,Random 170, Hash 3, String 1, Stack 3, Backtracking 2 ,total: 210/200<br/>
     
