@@ -66,6 +66,11 @@ As years passed, I should be back to coding for more interesting world explore. 
    W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
 8. Read two ML books and implement ML code.<br/>
    W32D1:  Postpone for other personal improvement plan<br/>
+   W33D6:  Postpone for other personal improvement plan<br/>
+9. Coursera: Deep learning, total:  P180, target complete it before W35D7<br/>
+   DoD:  complete all the video course.  complete all the code assignment.<br/>
+   W33D6: Progress P24, W1 assignment ongoing<br/>
+   W33D6: Progress P24, W1 exercise ongoing<br/>
 
 
 ## Daily task:<br/>
@@ -78,5 +83,12 @@ As years passed, I should be back to coding for more interesting world explore. 
     W32D4: DP 26,  List 5 ,Random 176, Hash 3, String 1, Stack 3, Backtracking 3, Monotonic 1,total: 218/200<br/>
     W32D5: DP 26,  List 5 ,Random 188, Hash 3, String 1, Stack 3, Backtracking 3, Monotonic 1,total: 230/200<br/>
     W32D6: DP 26,  List 5 ,Random 191, Hash 3, String 1, Stack 3, Backtracking 3, Monotonic 1, Highlevel 4 total: 237/200<br/>
-    W32D7: DP 26,  List 5 ,Random 191, Hash 3, String 1, Stack 3, Backtracking 3, Monotonic 1, Highlevel 9 total: 242/200<br/>
+    W32D7: DP 26,  List 5 ,Random 191, Hash 3, String 1, Stack 3, Backtracking 3, Monotonic 1, Highlevel 10 total: 243/200<br/>
+    W33D1: Highlevel + 2 = 13, total 246<br/>
+    W33D2: Highlevel + 2 = 15, total 246<br/>
+    W33D3: Highlevel + 4 = 19, total 250<br/>
+    W33D4: Highlevel + 6 = 25, total 256 <br/>
+    W33D5: Highlevel + 6 = 25, total 256 <br/>
+    W33D6: Highlevel + 6 = 31, total 262 <br/>
+    W33D7: Highlevel + 3 = 34, total 265 <br/>
 
