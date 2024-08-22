@@ -1,4 +1,4 @@
-# Ramp up2024
+# Ramp up 2024
 As years passed, I should be back to coding for more interesting world explore. It's not easy for these years, many roles transferred for life. It's forced to learn new skill and ignore what I have. The world go ahead so rapidly and seems not easy to catch it. I hope I can catch the tail this time. 
 
 ## Action plan of Way forward: <br/>
@@ -8,6 +8,7 @@ As years passed, I should be back to coding for more interesting world explore. 
    W28D6: Done   <br/>
 3. Leetcode for basic algorithms. Target 200 pcs in 30 days. <br/>
    Go forward with algorithm type, <br/>
+   
       * Dynamic Programming (DP) - 动态规划 <br/>
       * Sliding Window - 滑动窗口 <br/>
       * Two Pointers Method - 双指针法 <br/>
@@ -71,6 +72,8 @@ As years passed, I should be back to coding for more interesting world explore. 
    DoD:  complete all the video course.  complete all the code assignment.<br/>
    W33D6: Progress P24, W1 assignment ongoing<br/>
    W33D6: Progress P24, W1 exercise ongoing<br/>
+   W34D1: Progress p31, W1 exercise done<br/>
+   W34D4: Progress P55
 
 
 ## Daily task:<br/>
@@ -91,4 +94,7 @@ As years passed, I should be back to coding for more interesting world explore. 
     W33D5: Highlevel + 6 = 25, total 256 <br/>
     W33D6: Highlevel + 6 = 31, total 262 <br/>
     W33D7: Highlevel + 3 = 34, total 265 <br/>
+    W34D1: Highlevel + 2 = 36, total 267 <br/>
+    W34D2: Highlevel + 2 = 38, total 269 <br/>
+    W34D4: Highlevel + 5 = 43, total 274 <br/>
 
