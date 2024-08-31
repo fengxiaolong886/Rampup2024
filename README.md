@@ -77,6 +77,9 @@ As years passed, I should be back to coding for more interesting world explore. 
    W34D6: Progress: P67
    W34D6: Progress: P73
    w35D2: Progress: P98
+   W35D3: Progress: P111
+   W35D4: Progress: P126
+   W35D6: Progress: P133
 
 
 ## Daily task:<br/>
@@ -105,4 +108,9 @@ As years passed, I should be back to coding for more interesting world explore. 
     W34D7: Highlevel + 3 = 54, total 286 <br/>
     W35D1: Highlevel + 2 = 56, total 288 <br/>
     W35D2: Highlevel + 2 = 58, total 290 <br/>
+    W35D3: Highlevel + 3 = 61, total 293 <br/>
+    W35D5: Highlevel + 4 = 67, total 297 <br/>
+    W35D6: Highlevel + 2 = 69, total 299 <br/>
+
+
 
