@@ -2,11 +2,11 @@
 As years passed, I should be back to coding for more interesting world explore. It's not easy for these years, many roles transferred for life. It's forced to learn new skill and ignore what I have. The world go ahead so rapidly and seems not easy to catch it. I hope I can catch the tail this time. 
 
 ## Action plan of Way forward: <br/>
-1. Follow the guide to travel with basic python, data analysis methods.<br/> 
+1. Closed: Follow the guide to travel with basic python, data analysis methods.<br/> 
    W28D6: Done <br/>
-3. Learn more about the data visualization method. <br/>
+3. Closed:  Learn more about the data visualization method. <br/>
    W28D6: Done   <br/>
-3. Leetcode for basic algorithms. Target 200 pcs in 30 days. <br/>
+3. Closed: Leetcode for basic algorithms. Target 200 pcs in 30 days. <br/>
    Go forward with algorithm type, <br/>
    
       * Dynamic Programming (DP) - 动态规划 <br/>
@@ -62,24 +62,28 @@ As years passed, I should be back to coding for more interesting world explore. 
 6. Coding for machine learning basic algorithm. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W32D1:  Postpone<br/>
-7. Review my previous deep learning code and RL code <br/>
+7. Closed: Review my previous deep learning code and RL code <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
 8. Read two ML books and implement ML code.<br/>
    W32D1:  Postpone for other personal improvement plan<br/>
    W33D6:  Postpone for other personal improvement plan<br/>
-9. Coursera: Deep learning, total:  P180, target complete it before W35D7<br/>
+9. Closed: Coursera: Deep learning, total:  P180, target complete it before W35D7<br/>
    DoD:  complete all the video course.  complete all the code assignment.<br/>
    W33D6: Progress P24, W1 assignment ongoing<br/>
    W33D6: Progress P24, W1 exercise ongoing<br/>
    W34D1: Progress p31, W1 exercise done<br/>
-   W34D4: Progress P55
-   W34D6: Progress: P67
-   W34D6: Progress: P73
-   w35D2: Progress: P98
-   W35D3: Progress: P111
-   W35D4: Progress: P126
-   W35D6: Progress: P133
+   W34D4: Progress P55<br/>
+   W34D6: Progress: P67<br/>
+   W34D6: Progress: P73<br/>
+   w35D2: Progress: P98<br/>
+   W35D3: Progress: P111<br/>
+   W35D4: Progress: P126<br/>
+   W35D6: Progress: P133<br/>
+   W35D7: Progress: P152<br/>
+   W36D1: Progress: P161<br/>
+   W36D2: Progress: P171<br/>
+   W36D2: Progress: P180--Done<br/>
 
 
 ## Daily task:<br/>
@@ -111,6 +115,9 @@ As years passed, I should be back to coding for more interesting world explore. 
     W35D3: Highlevel + 3 = 61, total 293 <br/>
     W35D5: Highlevel + 4 = 67, total 297 <br/>
     W35D6: Highlevel + 2 = 69, total 299 <br/>
-
+    W35D7: Highlevel + 4 = 73, total 304 <br/>
+    W36D1: Highlevel + 4 = 77, total 308 <br/>
+    W36D2: Highlevel + 2 = 79, total 310 <br/>
+    W36D2: Highlevel + 2 = 81, total 312 <br/>
 
 
