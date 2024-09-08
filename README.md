@@ -59,13 +59,14 @@ As years passed, I should be back to coding for more interesting world explore. 
 5. Quantitative analysis warm up. <br/>
     W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W32D1:  Postpone<br/>
-6. Coding for machine learning basic algorithm. <br/>
+6. Coding for DL/ML basic algorithm. <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W32D1:  Postpone<br/>
+   W36D3:  modify target to DL and ML coding.
 7. Closed: Review my previous deep learning code and RL code <br/>
    W28D5: Pending on task 6,  leetcode task. Postpone. <br/>
    W31D6: Cancel this part as new task assigned for structure learn for ML, DL and RL. <br/>
-8. Read two ML books and implement ML code.<br/>
+8. Read two ML books.<br/>
    W32D1:  Postpone for other personal improvement plan<br/>
    W33D6:  Postpone for other personal improvement plan<br/>
 9. Closed: Coursera: Deep learning, total:  P180, target complete it before W35D7<br/>
@@ -84,6 +85,7 @@ As years passed, I should be back to coding for more interesting world explore. 
    W36D1: Progress: P161<br/>
    W36D2: Progress: P171<br/>
    W36D2: Progress: P180--Done<br/>
+10. Visualization method learn.<br/>
 
 
 ## Daily task:<br/>
@@ -118,6 +120,8 @@ As years passed, I should be back to coding for more interesting world explore. 
     W35D7: Highlevel + 4 = 73, total 304 <br/>
     W36D1: Highlevel + 4 = 77, total 308 <br/>
     W36D2: Highlevel + 2 = 79, total 310 <br/>
-    W36D2: Highlevel + 2 = 81, total 312 <br/>
-
-
+    W36D3: Highlevel + 2 = 81, total 312 <br/>
+    W36D4: Highlevel + 3 = 84, total 315 <br/>
+    W36D5: Highlevel + 3 = 87, total 318 <br/>
+    W36D6: Highlevel + 2 = 89, total 320 <br/>
+    W36D7: Highlevel + 3 = 92, total 323 <br/>
